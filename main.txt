@@ -1,7 +1,0 @@
-This is my main file.
-
-Here I will add some variance between branches:
-
-<<<<<<< HEAD
-branch1
->>>>>>> Created branch1
